@@ -64,6 +64,7 @@ a:hover {
     height: 25vh; 
     width: 25%;
     padding: 1rem;
+    overflow: hidden;
 }
 .colores:hover{
     overflow:auto; 
